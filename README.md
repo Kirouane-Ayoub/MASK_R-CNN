@@ -16,7 +16,7 @@ Mask R-CNN :
 
 Mask R-CNN (Mask Region-based Convolutional Neural Network) is a deep learning-based model for instance segmentation. It extends the Faster R-CNN object detection model by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition. The network predicts both class labels and object masks for each instance of an object in an image. This enables it to perform both object detection and semantic segmentation in a single forward pass, making it a versatile solution for a wide range of computer vision tasks. It has been widely used in various applications such as self-driving cars, medical imaging, and robotics.
 
-For more information visit : https://www.linkedin.com/pulse/mask-r-cnn-ayoub-kirouane/?trackingId=avlC23tSRm6qyDKZJhzvog%3D%3D 
+For more information visit : https://www.linkedin.com/pulse/mask-r-cnn-ayoub-kirouane
 
 
 
